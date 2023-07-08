@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/distilhubert-finetuned-gtzan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/whisper-small-dv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/whisper-tiny-en-minds14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/whisper-tiny-en-minds14_2" vcs="Git" />
   </component>
 </project>
